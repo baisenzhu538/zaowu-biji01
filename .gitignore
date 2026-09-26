@@ -6,6 +6,9 @@
 .obsidian/workspace-mobile.json
 .obsidian/cache/
 
+# Obsidian 社区插件（第三方二进制，体积大且可重新安装，不入库）
+.obsidian/plugins/
+
 # 系统文件
 Thumbs.db
 desktop.ini
